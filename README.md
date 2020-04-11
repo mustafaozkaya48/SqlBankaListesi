@@ -1,0 +1,2 @@
+# SqltTURKIYEBankaListesi
+TÜRKİYE BANKALARININ  SQL LİSTESİ 
